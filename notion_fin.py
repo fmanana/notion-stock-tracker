@@ -1,4 +1,4 @@
-import secrets, headers
+import secrets
 import yfinance as yf
 import requests, json
 
